@@ -40,7 +40,7 @@ const Read = () => {
   return (
     <>
       {/* Static Naming on page */}
-      <h1> Read Operation</h1>
+      <h1> Read Operations</h1>
       <table className="table">
         <thead>
           <tr>
